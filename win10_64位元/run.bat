@@ -1,1 +1,2 @@
-start cmd /k xxxdl.exe -h
+start cmd /k xxxdl.exe -h 
+xxxdl -h 
